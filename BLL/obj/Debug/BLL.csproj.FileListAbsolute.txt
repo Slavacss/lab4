@@ -1,0 +1,15 @@
+C:\ALL\programms\Фомина\lab1\BLL\bin\Debug\BLL.dll.config
+C:\ALL\programms\Фомина\lab1\BLL\bin\Debug\BLL.dll
+C:\ALL\programms\Фомина\lab1\BLL\bin\Debug\BLL.pdb
+C:\ALL\programms\Фомина\lab1\BLL\bin\Debug\DAL.dll
+C:\ALL\programms\Фомина\lab1\BLL\bin\Debug\EntityFramework.dll
+C:\ALL\programms\Фомина\lab1\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\ALL\programms\Фомина\lab1\BLL\bin\Debug\DAL.pdb
+C:\ALL\programms\Фомина\lab1\BLL\bin\Debug\DAL.dll.config
+C:\ALL\programms\Фомина\lab1\BLL\bin\Debug\EntityFramework.xml
+C:\ALL\programms\Фомина\lab1\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\ALL\programms\Фомина\lab1\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\ALL\programms\Фомина\lab1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\ALL\programms\Фомина\lab1\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\ALL\programms\Фомина\lab1\BLL\obj\Debug\BLL.dll
+C:\ALL\programms\Фомина\lab1\BLL\obj\Debug\BLL.pdb

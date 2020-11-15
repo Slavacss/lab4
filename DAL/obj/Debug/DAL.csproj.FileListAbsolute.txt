@@ -1,0 +1,14 @@
+C:\ALL\programms\Фомина\lab1\DAL\bin\Debug\DAL.dll.config
+C:\ALL\programms\Фомина\lab1\DAL\bin\Debug\DAL.dll
+C:\ALL\programms\Фомина\lab1\DAL\bin\Debug\DAL.pdb
+C:\ALL\programms\Фомина\lab1\DAL\bin\Debug\EntityFramework.dll
+C:\ALL\programms\Фомина\lab1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\ALL\programms\Фомина\lab1\DAL\bin\Debug\EntityFramework.xml
+C:\ALL\programms\Фомина\lab1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\ALL\programms\Фомина\lab1\DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\ALL\programms\Фомина\lab1\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\ALL\programms\Фомина\lab1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\ALL\programms\Фомина\lab1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\ALL\programms\Фомина\lab1\DAL\obj\Debug\DAL.dll
+C:\ALL\programms\Фомина\lab1\DAL\obj\Debug\DAL.pdb
+C:\ALL\programms\Фомина\lab1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
